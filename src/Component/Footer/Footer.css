@@ -1,0 +1,50 @@
+.container-about{
+    background:  rgba(95, 9, 155,1);
+    height: 600px;
+    padding-top: 80px;
+    /* margin: auto; */
+    text-align: center;
+}
+.footer-heading{
+    font-size: 24px;
+    font-weight: 200;
+    color: white;
+}
+.footer-avatar{
+    height: 120px;
+    width: 120px;
+    display: block;
+}
+
+.avatar-box{
+    color: white;
+    font-weight: 500;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.icon-boxes{
+    height: 95px;
+    width: 95px;
+    border-radius: 50%;
+}
+
+.social-boxes{
+    /* background-color: white; */
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    /* box-shadow: 0px 0px 10px 5px rgba(255, 255, 255, 0.1); */
+}
+
+.social-boxes:hover{
+    transition: margin 1s ease-out;
+    margin-top: -5px;
+}
+
+.footer-end{
+    color: white;
+    font-weight: 200;
+    margin: auto;
+    padding-bottom: 50px;
+}
